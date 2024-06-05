@@ -23,7 +23,7 @@ Dataset yang digunakan terdiri dari lima gerakan yoga yang berbeda:
 5. **Updog Pose**
 
 
-## Persyaratan
+## Tools
 - <img src="https://img.shields.io/badge/Python-3.6+-blue.svg" alt="Python version">
 - <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter Notebook">
 - <img src="https://img.shields.io/badge/Library-TensorFlow-blue.svg" alt="TensorFlow">
