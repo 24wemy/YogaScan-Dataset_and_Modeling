@@ -15,7 +15,7 @@ Proses transfer learning menggunakan MobileNetV2 melibatkan langkah-langkah beri
 4. **Pelatihan Model**: Melatih model dengan dataset posisi yoga menggunakan pelatihan lapisan kustom.
 
 ## Dataset
-Dataset yang digunakan terdiri dari lima kelas posisi yoga yang berbeda:
+Dataset yang digunakan terdiri dari lima gerakan yoga yang berbeda:
 1. **Boat Pose**
 2. **Corpse Pose**
 3. **Tree Pose**
