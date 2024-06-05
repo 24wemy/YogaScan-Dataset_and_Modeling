@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-TensorFlow-orange.svg" alt="Built with TensorFlow">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
 ## Deskripsi Proyek
@@ -22,11 +21,11 @@ Proses transfer learning menggunakan MobileNetV2 melibatkan langkah-langkah beri
 
 ## Dataset
 Dataset yang digunakan terdiri dari lima kelas posisi yoga yang berbeda:
-1. **Boat Pose**
-2. **Corpse Pose**
-3. **Tree Pose**
-4. **Plank Pose**
-5. **Updog Pose**
+1. <img src="https://img.icons8.com/dusk/64/000000/ship.png" alt="Boat Pose"/> **Boat Pose**
+2. <img src="https://img.icons8.com/dusk/64/000000/dead-body.png" alt="Corpse Pose"/> **Corpse Pose**
+3. <img src="https://img.icons8.com/dusk/64/000000/tree.png" alt="Tree Pose"/> **Tree Pose**
+4. <img src="https://img.icons8.com/dusk/64/000000/yoga.png" alt="Plank Pose"/> **Plank Pose**
+5. <img src="https://img.icons8.com/dusk/64/000000/down-dog.png" alt="Updog Pose"/> **Updog Pose**
 
 Dataset tersedia di direktori "dataset" dalam repositori ini.
 
