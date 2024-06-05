@@ -22,7 +22,6 @@ Dataset yang digunakan terdiri dari lima gerakan yoga yang berbeda:
 4. **Plank Pose**
 5. **Updog Pose**
 
-Dataset tersedia di direktori "dataset" dalam repositori ini.
 
 ## Persyaratan
 - <img src="https://img.shields.io/badge/Python-3.6+-blue.svg" alt="Python version">
