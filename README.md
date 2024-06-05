@@ -32,4 +32,6 @@ Dataset yang digunakan terdiri dari lima gerakan yoga yang berbeda:
 - <img src="https://img.shields.io/badge/Library-Matplotlib-blue.svg" alt="Matplotlib">
 - <img src="https://img.shields.io/badge/Library-scikit--learn-blue.svg" alt="scikit-learn">
 - <img src="https://img.shields.io/badge/Library-Pillow-blue.svg" alt="Pillow">
+- <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+
 
