@@ -1,4 +1,4 @@
-# <center> Yoga Pose Recognition using MobileNetV2 </center>
+# <center> Yoga Pose Recognition using Transfer Learning MobileNetV2 </center>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-TensorFlow-orange.svg" alt="Built with TensorFlow">
@@ -31,10 +31,12 @@ Dataset yang digunakan terdiri dari lima kelas posisi yoga yang berbeda:
 Dataset tersedia di direktori "dataset" dalam repositori ini.
 
 ## Persyaratan
-- Python 3.6+
-- Jupyter Notebook atau Google Colab
-- Library Python: TensorFlow, Keras, NumPy, Matplotlib, scikit-learn, Pillow
+- <img src="https://img.shields.io/badge/Python-3.6+-blue.svg" alt="Python version">
+- <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter Notebook">
+- <img src="https://img.shields.io/badge/Library-TensorFlow-blue.svg" alt="TensorFlow">
+- <img src="https://img.shields.io/badge/Library-Keras-blue.svg" alt="Keras">
+- <img src="https://img.shields.io/badge/Library-NumPy-blue.svg" alt="NumPy">
+- <img src="https://img.shields.io/badge/Library-Matplotlib-blue.svg" alt="Matplotlib">
+- <img src="https://img.shields.io/badge/Library-scikit--learn-blue.svg" alt="scikit-learn">
+- <img src="https://img.shields.io/badge/Library-Pillow-blue.svg" alt="Pillow">
 
-
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
